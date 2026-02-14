@@ -1,0 +1,5 @@
+include README.md
+include LICENSE.txt
+include requirements.txt
+include USER_MANUAL.md
+recursive-include Topsis-Naman-102317144 *.py
